@@ -1,7 +1,7 @@
 ## Hello! 👋
 I'm Daki, a software engineer based in Sofia, Bulgaria.
 
-I'm a backend developer - C#, C++, SQL.
+I'm a backend developer - C#, C, SQL.
 I'm also prominent in networking and OS work.
 I used Figma for UI designs.
 

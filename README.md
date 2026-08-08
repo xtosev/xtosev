@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello! 👋
+I'm Daki, a software engineer based in Sofia, Bulgaria.
 
-<!--
-**xtosev/xtosev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer - C#, C++, SQL, Tailwind, React and Typescript.
+I'm also prominent in networking and OS work.
+I used Figma for UI designs.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a profile where I'll show my new and old projects. I'll be experimenting with a lot of new technologies. I'll be utilizing my skills to build new and exciting programs.
+***
+Tools and Tech
+-  C#, C++, SQL, Tailwind, React and Typescript.
+-  Obsidian for organizing
+-  Linear for planning
+***
+About me
+- I've been playing the piano for 12 years.
+- A big tech nerd.
+- Into all kinds of media (Movies, Series, Anime and Games).
+- I love complex problem-solving.

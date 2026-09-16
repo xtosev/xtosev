@@ -5,7 +5,7 @@ I'm a backend developer - C#, C, SQL.
 I'm also prominent in networking and OS work.
 I use Figma for UI designs.
 
-This is a profile where I'll show my new projects (built from scratch, with proper documentation) . I will be experimenting with a lot of new technologies. I will be utilizing my skills to build new and exciting programs.
+This is a profile where I will show my new projects (built from scratch, with proper documentation) . I will be experimenting with a lot of new technologies. I will be utilizing my skills to build new and exciting programs.
 ***
 Tools and Tech
 -  C#, C, SQL.
